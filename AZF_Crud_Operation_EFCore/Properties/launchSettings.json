@@ -1,0 +1,9 @@
+{
+  "profiles": {
+    "_05_Crud_Operation_EFCore": {
+      "commandName": "Project",
+      "commandLineArgs": "--port 7008",
+      "launchBrowser": false
+    }
+  }
+}

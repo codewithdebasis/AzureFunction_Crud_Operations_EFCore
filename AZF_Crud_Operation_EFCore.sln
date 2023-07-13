@@ -1,0 +1,31 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio Version 17
+VisualStudioVersion = 17.6.33723.286
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "Crud_Operation_EFCore", "AZF_Crud_Operation_EFCore\Crud_Operation_EFCore.csproj", "{269718E3-3E46-4090-8057-68D96644638E}"
+EndProject
+Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "DataAccessLayer", "DataAccessLayer\DataAccessLayer.csproj", "{2E6429AC-BBCC-42BF-A2C6-5FE3FD9293A9}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{269718E3-3E46-4090-8057-68D96644638E}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{269718E3-3E46-4090-8057-68D96644638E}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{269718E3-3E46-4090-8057-68D96644638E}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{269718E3-3E46-4090-8057-68D96644638E}.Release|Any CPU.Build.0 = Release|Any CPU
+		{2E6429AC-BBCC-42BF-A2C6-5FE3FD9293A9}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{2E6429AC-BBCC-42BF-A2C6-5FE3FD9293A9}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{2E6429AC-BBCC-42BF-A2C6-5FE3FD9293A9}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{2E6429AC-BBCC-42BF-A2C6-5FE3FD9293A9}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(ExtensibilityGlobals) = postSolution
+		SolutionGuid = {5EE5FE99-AE74-4A1D-B950-4336398A9F8F}
+	EndGlobalSection
+EndGlobal
